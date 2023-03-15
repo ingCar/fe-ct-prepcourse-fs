@@ -18,7 +18,7 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
    // Retorna el valor de "num" elevado al exponente "exponent".
    // Tu código:
-   return Math.pow(num, 2);
+   return Math.pow(num, exponent);
 }
 
 function redondearNumero(num) {
